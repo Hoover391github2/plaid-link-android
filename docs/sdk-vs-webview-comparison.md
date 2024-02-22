@@ -8,6 +8,6 @@ Integrating with the SDK provides many benefits over using a [WebView](https://d
 | Support for all link flows (including OAuth!) | X |  |
 | Monthly updates with the latest features | X |  |
 | Support from Plaid | X |  |
-| Up-to-date documentation | X |  |
+| Up-to-date documentation | ui |  |
 
 
